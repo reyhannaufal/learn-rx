@@ -1,9 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and customize by me.
+# Me Learning RxJS
 
-## Features
-- [x] TailwindCSS
-- [x] Auto import
-- [ ] Image Blur using cloudinary
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and customize by me.
 
 ## Getting Started
 
