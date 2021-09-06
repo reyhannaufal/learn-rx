@@ -9,9 +9,7 @@ const Home: NextPage = () => {
    const [state, setState] = React.useState<number>();
 
    React.useEffect(() => {
-      return () => {
-         observable$.subscribe(setState);
-      };
+      observable$.subscribe(setState);
    });
 
    return (
