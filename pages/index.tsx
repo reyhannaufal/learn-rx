@@ -10,7 +10,7 @@ const Home: NextPage = () => {
 
    React.useEffect(() => {
       observable$.subscribe(setState);
-   });
+   }, []);
 
    return (
       <main>
